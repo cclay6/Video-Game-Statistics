@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Game List</string>
+    <string name="title_activity_add_game">addGame</string>
+
+
+    <string-array name="console_array">
+        <item>Playstation 4</item>
+        <item>Xbox 1</item>
+        <item>Nintendo Switch</item>
+        <item>PC</item>
+        <item>Playstaion 3</item>
+        <item>Xbox 360</item>
+        <item>Nintendo Wii</item>
+
+    </string-array>
+
+</resources>
